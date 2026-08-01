@@ -929,7 +929,7 @@ The report compares four watermarking techniques:
 | **Correlation** | 0.999 | 1.00 | 0.999 | 0.999 |
 | **PTPF** | Approximately 0.212 seconds | Approximately 0.272 seconds | Approximately 0.309 seconds | Approximately 0.361 seconds |
 
-> The values above are reported in the academic project report and reflect its experimental environment and calculation methods.
+
 
 ### PSNR Comparison
 
