@@ -254,9 +254,11 @@ The proposed architecture follows an end-to-end watermarking pipeline.
 
 It accepts an original video and watermark information, processes the video frames, embeds the watermark, optionally applies attacks and evaluates the resulting watermarked content.
 
-<p align="center">
-  <img src="images/watermarking-flow-model.png" alt="Pseudo-quantum video watermarking flow model" width="850">
-</p>
+
+
+<img width="1230" height="630" alt="image" src="https://github.com/user-attachments/assets/e50d807d-067a-49c3-916b-a15aeda65cfe" />
+
+
 
 ### Architecture Components
 
