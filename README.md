@@ -354,9 +354,8 @@ The overall process begins by loading a video and extracting selected frames.
 
 The frames are transformed, watermarked and compared against the original frames.
 
-<p align="center">
-  <img src="images/watermarking-workflow.png" alt="Overall watermark embedding and evaluation workflow" width="850">
-</p>
+<img width="1120" height="580" alt="image" src="https://github.com/user-attachments/assets/cbabb7f9-a167-46cd-a047-3a3b32e2fd50" />
+
 
 ### Processing Flow
 
@@ -915,9 +914,7 @@ The report compares four watermarking techniques:
 - DQTWM
 - DQTWM with Gaussian noise
 
-<p align="center">
-  <img src="images/performance-comparison-table.png" alt="Performance comparison of video watermarking techniques" width="900">
-</p>
+<img width="1150" height="695" alt="image" src="https://github.com/user-attachments/assets/e3df3526-8ab9-4046-be3f-a12ef13e6629" />
 
 ### Reported Performance Comparison
 
@@ -951,9 +948,8 @@ The reported PSNR values suggest:
 
 ### Structural Similarity and Correlation
 
-<p align="center">
-  <img src="images/nc-ssim-comparison.png" alt="Normalized correlation and structural similarity comparison" width="850">
-</p>
+<img width="1140" height="700" alt="image" src="https://github.com/user-attachments/assets/06a27472-9a41-4e5b-a2d0-24ac582655fb" />
+
 
 The report states that:
 
@@ -988,9 +984,8 @@ This indicates a trade-off between:
 
 The report compares selected original and watermarked frames.
 
-<p align="center">
-  <img src="images/frame-quality-comparison.png" alt="Original and watermarked video-frame quality comparison" width="950">
-</p>
+<img width="1100" height="640" alt="image" src="https://github.com/user-attachments/assets/a94fd23a-59a7-4ba9-921c-35128b1f99d3" />
+
 
 The visual comparison includes:
 
