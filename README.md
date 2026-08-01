@@ -935,9 +935,8 @@ The report compares four watermarking techniques:
 
 The report identifies QTWM as the technique with the highest reported PSNR.
 
-<p align="center">
-  <img src="images/psnr-ptpf-comparison.png" alt="PSNR and processing-time comparison of watermarking techniques" width="850">
-</p>
+<img width="1140" height="1430" alt="image" src="https://github.com/user-attachments/assets/4f23e043-de97-400d-8ef3-185f80afba54" />
+
 
 The reported PSNR values suggest:
 
