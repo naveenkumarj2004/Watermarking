@@ -1,4 +1,4 @@
-# A Novel Quantum-Enhanced Video Watermarking Technique for Secure and Robust Video Protection
+# Quantum–Enhanced Video Watermarking System for Digital Content Protection
 
 A pseudo-quantum-enhanced video watermarking research project designed to protect digital video content against unauthorized copying, tampering, piracy and signal-processing attacks while maintaining high visual quality.
 
